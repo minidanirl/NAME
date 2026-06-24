@@ -1,3 +1,3 @@
 <?php
 
-echo "Daniel Ramirez";
+echo "Daniel";
